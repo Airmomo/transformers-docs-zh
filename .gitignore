@@ -162,8 +162,4 @@ cython_debug/
 #.idea/
 
 # Custom
-transformers-playground-windows/
-transformers-playground-windows-ctv/
-transformers-playground-macos/
-
 .DS_store
