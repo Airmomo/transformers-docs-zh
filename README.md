@@ -7,4 +7,5 @@ Transformers 学习笔记及演示示例，支持 Jupyter Notebook，主要内�
 - [安装](./docs/0_installation.ipynb)
 - [快速上手](./docs/1_quick_tour.ipynb)
 - 教程
-  - 待更新
+  - [使用 pipelines 进行推理](./docs//2_pipeline.ipynb)
+  -
