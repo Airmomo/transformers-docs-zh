@@ -14,3 +14,4 @@ Transformers 学习笔记及演示示例，支持 Jupyter Notebook，主要内�
   - [使用 pipelines 进行推理](./docs/2_pipeline.ipynb)
   - [使用 AutoClass 加载预训练实例](./docs/3_autoclass.ipynb)
   - [预处理数据](./docs/4_preprocess_data.ipynb)
+  - [微调预训练模型](./docs/5_fine_tune_pretrained_model.ipynb)
