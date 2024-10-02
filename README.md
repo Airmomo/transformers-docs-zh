@@ -19,4 +19,4 @@ Transformers 学习笔记及演示示例，支持 Jupyter Notebook，主要内�
   - [使用 🤗Accelerate 进行分布式训练](./docs/tutorials/7_distributed_training_with_accelerate.ipynb)
   - [使用 🤗 PEFT 加载和训练 adapters](./docs/tutorials/8_load_adapters_with_PEFT.ipynb)
   - [如何分享模型](./docs/tutorials/9_share_model.ipynb)
-  -
+  - [Transformers Agents](./docs/tutorials/10_agents.ipynb)
