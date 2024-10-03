@@ -21,6 +21,7 @@ Transformers 学习笔记及演示示例，支持 Jupyter Notebook，主要内�
   - [如何分享模型](./docs/tutorials/9_share_model.ipynb)
   - [Transformers Agents 快速上手](./docs/tutorials/10_agents.ipynb)
   - [使用 LLMs 进行生成](./docs/tutorials/11_generation_with_llms.ipynb)
+  - [Agents and Tools 介绍和指南](./docs/tutorials/12_agents_and_tools.ipynb)
 - API
   - 主要的类
-    - [Agents and Tools](./docs/api/main_class/12_agents_and_tools.ipynb)
+    - [Agents and Tools](./docs/api/main_class/13_agents_and_tools.ipynb)
