@@ -25,3 +25,4 @@ Transformers 学习笔记及演示示例，支持 Jupyter Notebook，主要内�
 - 任务指南
   - 自然语言处理
     - [文本分类](./docs/guide/13_text_classification.ipynb)
+    - [Token 分类](./docs/guide/14_token_classification.ipynb)
