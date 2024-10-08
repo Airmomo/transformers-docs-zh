@@ -28,3 +28,4 @@ Transformers 学习笔记及演示示例，支持 Jupyter Notebook，主要内�
     - [Token 分类](./docs/guide/14_token_classification.ipynb)
   - 提示技术
     - [LLM 提示指南](./docs/guide/15_llm_prompt_guide.ipynb)
+    - [自动语音识别](./docs/guide/16_automatic_speech_recognition.ipynb)
