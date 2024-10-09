@@ -26,6 +26,7 @@ Transformers 学习笔记及演示示例，支持 Jupyter Notebook，主要内�
   - 自然语言处理
     - [文本分类](./docs/guide/13_text_classification.ipynb)
     - [Token 分类](./docs/guide/14_token_classification.ipynb)
+  - 音频处理
+    - [自动语音识别](./docs/guide/16_automatic_speech_recognition.ipynb)
   - 提示技术
     - [LLM 提示指南](./docs/guide/15_llm_prompt_guide.ipynb)
-    - [自动语音识别](./docs/guide/16_automatic_speech_recognition.ipynb)
