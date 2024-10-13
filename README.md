@@ -29,6 +29,7 @@ Transformers 学习笔记及演示示例，支持 Jupyter Notebook，主要内�
   - 音频处理
     - [自动语音识别(ASR)](./docs/guide/16_automatic_speech_recognition.ipynb)
   - 多模态
-    - [文本转语音(TTS)](./docs/guide/17_text_to_speech.ipynb)
+    - [文本转语音(TTS, Text-to-speech.)](./docs/guide/17_text_to_speech.ipynb)
+    - [视觉多模态理解模型(VLM, Image-text-to-text)](./docs/guide/18_image_text_to_text.ipynb)
   - 提示技术
     - [LLM 提示指南](./docs/guide/15_llm_prompt_guide.ipynb)
