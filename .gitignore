@@ -163,3 +163,5 @@ cython_debug/
 
 # Custom
 .DS_store
+md_source.md
+md_to_ipynb.py
