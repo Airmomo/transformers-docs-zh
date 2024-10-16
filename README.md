@@ -30,7 +30,8 @@ Transformers 学习笔记及演示示例，支持 Jupyter Notebook，主要内�
     - [自动语音识别 (ASR, Automatic speech recognition)](./docs/guide/16_automatic_speech_recognition.ipynb)
   - 多模态
     - [文本转语音 (TTS, Text-to-speech)](./docs/guide/17_text_to_speech.ipynb)
-    - [视觉多模态理解模型 (VLM, Image-text-to-text)](./docs/guide/18_image_text_to_text.ipynb)
+    - [图像-视觉多模态理解模型 (VLM with image-input, Image-text-to-text)](./docs/guide/18_image_text_to_text.ipynb)
+    - [视频-视觉多模态理解模型 (VLM with video-input, Video-text-to-text)](./docs/guide/21_video_text_to_text.ipynb.ipynb)
     - [文档问答 (DQA, Document Question Answering)](./docs/guide/20_document_question_answering.ipynb)
     - [视觉问答 (VQA, Visual Question Answering)](./docs/guide/19_visual_question_answering.ipynb)
   - 提示技术
