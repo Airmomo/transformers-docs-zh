@@ -25,10 +25,11 @@ Transformers 学习笔记及演示示例，支持 Jupyter Notebook，主要内�
 - 任务指南
   - 自然语言处理
     - [文本分类](./docs/guide/13_text_classification.ipynb)
-    - [Token 分类](./docs/guide/14_token_classification.ipynb)
+    - [标记分类（实体分类）](./docs/guide/14_token_classification.ipynb)
   - 音频处理
     - [自动语音识别 (ASR, Automatic speech recognition)](./docs/guide/16_automatic_speech_recognition.ipynb)
   - 多模态
+    - [图像描述生成](./docs/guide/22_image_captioning.ipynb)
     - [文本转语音 (TTS, Text-to-speech)](./docs/guide/17_text_to_speech.ipynb)
     - [图像-视觉多模态理解模型 (VLM with image-input, Image-text-to-text)](./docs/guide/18_image_text_to_text.ipynb)
     - [视频-视觉多模态理解模型 (VLM with video-input, Video-text-to-text)](./docs/guide/21_video_text_to_text.ipynb.ipynb)
