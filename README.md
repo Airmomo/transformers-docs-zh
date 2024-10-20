@@ -36,6 +36,7 @@ Transformers 学习笔记及演示示例，支持 Jupyter Notebook，主要内�
     - [文档问答 (DQA, Document Question Answering)](./docs/guide/20_document_question_answering.ipynb)
     - [视觉问答 (VQA, Visual Question Answering)](./docs/guide/19_visual_question_answering.ipynb)
   - 生成策略
+    - [（自定义）文本生成策略](./docs/guide/24_text_generation_strategies.ipynb.ipynb)
     - [使用缓存优化生成的最佳实践](./docs/guide/23_best_practices_for_generation_with_cache.ipynb)
   - 提示技术
     - [LLM 提示指南](./docs/guide/15_llm_prompt_guide.ipynb)
