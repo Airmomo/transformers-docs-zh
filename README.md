@@ -30,6 +30,7 @@ Transformers 学习笔记及演示示例，支持 Jupyter Notebook，主要内�
     - [自动语音识别 (ASR, Automatic speech recognition)](./docs/guide/16_automatic_speech_recognition.ipynb)
   - 计算机视觉
     - [图像分类](./docs/guide/25_image_classification.ipynb)
+    - [图像分割](./docs/guide/26_image_segmentation.ipynb.ipynb)
   - 多模态
     - [图像描述生成](./docs/guide/22_image_captioning.ipynb)
     - [文本转语音 (TTS, Text-to-speech)](./docs/guide/17_text_to_speech.ipynb)
