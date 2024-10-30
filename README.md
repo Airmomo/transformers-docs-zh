@@ -30,6 +30,7 @@ Transformers 学习笔记及演示示例，支持 Jupyter Notebook，主要内�
     - [遮蔽语言模型（MLM）](./docs/guide/29_masked_language_modeling.ipynb)
     - [文本翻译](./docs/guide/30_translation.ipynb)
     - [文本摘要（文本总结）](./docs/guide/31_summarization.ipynb)
+    - [多项选择任务](./docs/guide/32_mutil_choice.ipynb)
   - 音频处理
     - [自动语音识别 (ASR, Automatic speech recognition)](./docs/guide/16_automatic_speech_recognition.ipynb)
   - 计算机视觉
