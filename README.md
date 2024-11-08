@@ -61,3 +61,5 @@ Transformers 学习笔记及演示示例，支持 Jupyter Notebook，主要内�
   - 提示技术
     - [使用 IDEFICS 大型多模态模型来解决图像-文本任务](./docs/guide/44_Image_tasks_with_IDEFICS.ipynb)
     - [LLM 提示指南](./docs/guide/15_llm_prompt_guide.ipynb)s
+  - 开发者指南
+    - [使用 🤗 Tokenizers 中的分词器](./docs/dev_guide/45_Use_tokenizers_from_Tokenizers.ipynb)
