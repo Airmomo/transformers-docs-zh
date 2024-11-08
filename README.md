@@ -45,6 +45,7 @@ Transformers 学习笔记及演示示例，支持 Jupyter Notebook，主要内�
     - [单目深度估计(单图像深度估计)](./docs/guide/39_monocular_depth_estimation.ipynb)
     - [以图生图（图像增强、图像修复等图像处理任务）](./docs/guide/27_image_to_image.ipynb)
     - [图像特征提取](./docs/guide/40_Image_Feature_Extraction.ipynb)
+    - [图像掩码生成](./docs/guide/41_Mask_Generation.ipynb)
   - 多模态
     - [图像描述生成](./docs/guide/22_image_captioning.ipynb)
     - [文本转语音 (TTS, Text-to-speech)](./docs/guide/17_text_to_speech.ipynb)
