@@ -63,3 +63,4 @@ Transformers 学习笔记及演示示例，支持 Jupyter Notebook，主要内�
     - [LLM 提示指南](./docs/guide/15_llm_prompt_guide.ipynb)s
   - 开发者指南
     - [使用 🤗 Tokenizers 中的分词器](./docs/dev_guide/45_Use_tokenizers_from_Tokenizers.ipynb)
+    - [使用多语言模型运行推理](./docs/dev_guide/46_Multilingual_models_for_inference.ipynb)
