@@ -64,4 +64,5 @@ Transformers 学习笔记及演示示例，支持 Jupyter Notebook，主要内�
   - 开发者指南
     - [使用 🤗 Tokenizers 中的分词器](./docs/dev_guide/45_Use_tokenizers_from_Tokenizers.ipynb)
     - [使用多语言模型运行推理](./docs/dev_guide/46_Multilingual_models_for_inference.ipynb)
-    - [创建自定义模型架构](./docs/dev_guide/47_Create_a_custom_architecture.ipynb)
+    - [创建自定义架构(模型架构)](./docs/dev_guide/47_Create_custom_architecture.ipynb)
+    - [创建自定义模型](./docs/dev_guide/48_Building_custom_models.ipynb)
