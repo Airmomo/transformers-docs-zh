@@ -66,3 +66,4 @@ Transformers 学习笔记及演示示例，支持 Jupyter Notebook，主要内�
     - [使用多语言模型运行推理](./docs/dev_guide/46_Multilingual_models_for_inference.ipynb)
     - [创建自定义架构(模型架构)](./docs/dev_guide/47_Create_custom_architecture.ipynb)
     - [创建自定义模型](./docs/dev_guide/48_Building_custom_models.ipynb)
+    - [聊天模版(Chat Templates)](./docs/dev_guide/49_Chat_Templates.ipynb)
