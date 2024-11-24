@@ -67,3 +67,4 @@
     - [创建自定义架构(模型架构)](./docs/dev_guide/47_Create_custom_architecture.ipynb)
     - [创建自定义模型](./docs/dev_guide/48_Building_custom_models.ipynb)
     - [聊天模版(Chat Templates)](./docs/dev_guide/49_Chat_Templates.ipynb)
+    - [Trainer(Transformers 库中一个完整地实现了 PyTorch 模型训练和评估循环的类)](./docs/dev_guide/50_Trainer.ipynb)
