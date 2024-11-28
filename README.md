@@ -68,4 +68,5 @@
     - [创建自定义模型](./docs/dev_guide/48_Building_custom_models.ipynb)
     - [聊天模版(Chat Templates)](./docs/dev_guide/49_Chat_Templates.ipynb)
     - [Trainer(Transformers 库中一个完整地实现了 PyTorch 模型训练和评估循环的类)](./docs/dev_guide/50_Trainer.ipynb)
-    - [导出到 ONNX](./docs/dev_guide/51_Export_to_ONNX.ipynb)
+    - [将模型导出为 ONNX 格式](./docs/dev_guide/51_Export_to_ONNX.ipynb)
+    - [将模型导出至 TFLite](./docs/dev_guide/52_Export_to_TFLite.ipynb)
