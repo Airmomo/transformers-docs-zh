@@ -70,3 +70,4 @@
     - [Trainer(Transformers 库中一个完整地实现了 PyTorch 模型训练和评估循环的类)](./docs/dev_guide/50_Trainer.ipynb)
     - [将模型导出为 ONNX 格式](./docs/dev_guide/51_Export_to_ONNX.ipynb)
     - [将模型导出至 TFLite](./docs/dev_guide/52_Export_to_TFLite.ipynb)
+    - [导出到 TorchScript](./docs/dev_guide/53_Export_to_TorchScript.ipynb)
