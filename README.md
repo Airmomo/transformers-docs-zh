@@ -71,3 +71,4 @@
     - [将模型导出为 ONNX 格式](./docs/dev_guide/51_Export_to_ONNX.ipynb)
     - [将模型导出至 TFLite](./docs/dev_guide/52_Export_to_TFLite.ipynb)
     - [导出到 TorchScript](./docs/dev_guide/53_Export_to_TorchScript.ipynb)
+    - [基准测试](./docs/dev_guide/54_Benchmarks.ipynb)
