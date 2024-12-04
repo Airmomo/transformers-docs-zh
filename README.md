@@ -8,20 +8,20 @@
 
 # 目录
 
-- [安装 🤗 Transformers (windows & macos))](./docs/started/0_installation.ipynb)
-- [🤗 Transformers 快速上手](./docs/started/1_quick_tour.ipynb)
+- [安装 Transformers (windows & macos))](./docs/started/0_installation.ipynb)
+- [Transformers 快速上手](./docs/started/1_quick_tour.ipynb)
 - 教程
   - [使用 pipelines 进行推理](./docs/tutorials/2_pipeline.ipynb)
   - [使用 AutoClass 加载预训练实例](./docs/tutorials/3_autoclass.ipynb)
   - [预处理数据](./docs/tutorials/4_preprocess_data.ipynb)
   - [微调预训练模型](./docs/tutorials/5_fine_tune_pretrained_model.ipynb)
   - [使用脚本进行训练](./docs/tutorials/6_train_with_script.ipynb)
-  - [使用 🤗 Accelerate 进行分布式训练](./docs/tutorials/7_distributed_training_with_accelerate.ipynb)
-  - [使用 🤗 PEFT 加载和训练 adapters](./docs/tutorials/8_load_adapters_with_PEFT.ipynb)
+  - [使用 Accelerate 进行分布式训练](./docs/tutorials/7_distributed_training_with_accelerate.ipynb)
+  - [使用 PEFT 加载和训练 adapters](./docs/tutorials/8_load_adapters_with_PEFT.ipynb)
   - [如何分享模型](./docs/tutorials/9_share_model.ipynb)
-  - [🤗 Transformers Agents 快速上手](./docs/tutorials/10_agents.ipynb)
+  - [Transformers Agents 快速上手](./docs/tutorials/10_agents.ipynb)
   - [使用 LLMs 进行生成](./docs/tutorials/11_generation_with_llms.ipynb)
-  - [ Agents and Tools 介绍和指南](./docs/tutorials/12_agents_and_tools.ipynb)
+  - [Agents and Tools 介绍和指南](./docs/tutorials/12_agents_and_tools.ipynb)
 - 任务指南
   - 自然语言处理
     - [文本分类](./docs/guide/13_text_classification.ipynb)
@@ -62,12 +62,12 @@
     - [使用 IDEFICS 大型多模态模型来解决图像-文本任务](./docs/guide/44_Image_tasks_with_IDEFICS.ipynb)
     - [LLM 提示指南](./docs/guide/15_llm_prompt_guide.ipynb)s
 - 开发者指南
-  - [使用 🤗 Tokenizers 中的分词器](./docs/developer_guide/45_Use_tokenizers_from_Tokenizers.ipynb)
+  - [使用 Tokenizers 中的分词器](./docs/developer_guide/45_Use_tokenizers_from_Tokenizers.ipynb)
   - [使用多语言模型运行推理](./docs/developer_guide/46_Multilingual_models_for_inference.ipynb)
   - [创建自定义架构(模型架构)](./docs/developer_guide/47_Create_custom_architecture.ipynb)
   - [创建自定义模型](./docs/developer_guide/48_Building_custom_models.ipynb)
   - [聊天模版(Chat Templates)](./docs/developer_guide/49_Chat_Templates.ipynb)
-  - [Trainer(Transformers 库中一个完整地实现了 PyTorch 模型训练和评估循环的类)](./docs/developer_guide/50_Trainer.ipynb)
+  - [Trainer类 (Transformers 库中一个完整地实现了 PyTorch 模型训练和评估循环的类)](./docs/developer_guide/50_Trainer.ipynb)
   - [将模型导出为 ONNX 格式](./docs/developer_guide/51_Export_to_ONNX.ipynb)
   - [将模型导出至 TFLite](./docs/developer_guide/52_Export_to_TFLite.ipynb)
   - [导出到 TorchScript](./docs/developer_guide/53_Export_to_TorchScript.ipynb)
@@ -79,3 +79,5 @@
   - [在 Transformers 中加载 Tiktoken 文件](./docs/developer_guide/59_Interoperability_with_TikToken_files.ipynb)
   - [模块化 Transformers](./docs/developer_guide/60_Modular_transformers.ipynb)
   - [如何修改 Transformers 模型（通过修改现有的 Transformers 模型以满足特定需求）](./docs/developer_guide/61_Model_Hacking.ipynb)
+- 量化方法
+  - [量化技术简介](./docs/quantization/62_getting_started.ipynb)
