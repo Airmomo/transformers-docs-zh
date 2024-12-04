@@ -73,3 +73,5 @@
     - [导出到 TorchScript](./docs/developer_guide/53_Export_to_TorchScript.ipynb)
     - [基准测试](./docs/developer_guide/54_Benchmarks.ipynb)
     - [Transformers Notebooks 记事本示例合集](./docs/developer_guide/55_Transformers_Notebooks.ipynb)
+    - [Transformers Community 社区与资源](./docs/developer_guide/56_Community_resources.ipynb)
+    - [Transformers 故障排除](./docs/developer_guide/57_Troubleshoot.ipynb)
