@@ -75,3 +75,7 @@
     - [Transformers Notebooks 记事本示例合集](./docs/developer_guide/55_Transformers_Notebooks.ipynb)
     - [Transformers Community 社区与资源](./docs/developer_guide/56_Community_resources.ipynb)
     - [Transformers 故障排除](./docs/developer_guide/57_Troubleshoot.ipynb)
+    - [在 Transformers 中加载 GGUF 文件](./docs/developer_guide/58_Interoperability_with_GGUF_files.ipynb)
+    - [在 Transformers 中加载 Tiktoken 文件](./docs/developer_guide/59_Interoperability_with_TikToken_files.ipynb)
+    - [模块化 Transformers](./docs/developer_guide/60_Modular_transformers.ipynb)
+    - [如何修改 Transformers 模型（通过修改现有的 Transformers 模型以满足特定需求）](./docs/developer_guide/61_Model_Hacking.ipynb)
