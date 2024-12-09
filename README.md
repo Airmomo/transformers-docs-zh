@@ -82,7 +82,9 @@
 - 量化方法
   - [量化技术简介](./docs/quantization/62_getting_started.ipynb)
   - [量化模型（8位与4位量化）](./docs/quantization/63_bitsandbytes.ipynb)
-  - [GPTQ 广义剪枝训练量化](./docs/quantization/64_GPTQ.ipynb)
-  - [AWQ 激活感知权重量化](./docs/quantization/65_AWQ.ipynb)
-  - [AQLM 加性量化语言模型](./docs/quantization/66_AQLM.ipynb)
+  - [GPTQ —— 广义剪枝训练量化](./docs/quantization/64_GPTQ.ipynb)
+  - [AWQ —— 激活感知权重量化](./docs/quantization/65_AWQ.ipynb)
+  - [AQLM —— 加性量化语言模型](./docs/quantization/66_AQLM.ipynb)
   - [Optimum-quanto —— PyTorch 多功能量化工具包](./docs/quantization/67_Optimum-quanto.ipynb)
+  - [EETQ —— 高效的 Tensor 量化方法](./docs/quantization/68_EETQ.ipynb)
+  - [HQQ —— 半二次量化](./docs/quantization/69_HQQ.ipynb)
