@@ -82,5 +82,6 @@
 - 量化方法
   - [量化技术简介](./docs/quantization/62_getting_started.ipynb)
   - [量化模型（8位与4位量化）](./docs/quantization/63_bitsandbytes.ipynb)
-  - [GPTQ 量化算法（广义剪枝训练量化）](./docs/quantization/64_GPTQ.ipynb)
-  - [AWQ 量化算法（激活感知权重量化）](./docs/quantization/65_AWQ.ipynb)
+  - [GPTQ 广义剪枝训练量化](./docs/quantization/64_GPTQ.ipynb)
+  - [AWQ 激活感知权重量化](./docs/quantization/65_AWQ.ipynb)
+  - [AQLM 加性量化语言模型](./docs/quantization/66_AQLM.ipynb)
