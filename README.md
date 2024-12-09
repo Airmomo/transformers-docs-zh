@@ -85,3 +85,4 @@
   - [GPTQ 广义剪枝训练量化](./docs/quantization/64_GPTQ.ipynb)
   - [AWQ 激活感知权重量化](./docs/quantization/65_AWQ.ipynb)
   - [AQLM 加性量化语言模型](./docs/quantization/66_AQLM.ipynb)
+  - [Optimum-quanto —— PyTorch 多功能量化工具包](./docs/quantization/67_Optimum-quanto.ipynb)
