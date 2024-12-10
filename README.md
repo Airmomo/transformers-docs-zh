@@ -88,3 +88,6 @@
   - [Optimum-quanto —— PyTorch 多功能量化工具包](./docs/quantization/67_Optimum-quanto.ipynb)
   - [EETQ —— 高效的 Tensor 量化方法](./docs/quantization/68_EETQ.ipynb)
   - [HQQ —— 半二次量化](./docs/quantization/69_HQQ.ipynb)
+  - [FBGEMM FP8（模型量化至权重为8位，激活为8位）](./docs/quantization/70_FP8.ipynb)
+  - [Optimum](./docs/quantization/71_Optimum.ipynb)
+  - [TorchAO —— 用于 PyTorch 的架构优化库](./docs/quantization/72_TorchAO.ipynb)
