@@ -91,3 +91,4 @@
   - [FBGEMM FP8（模型量化至权重为8位，激活为8位）](./docs/quantization/70_FP8.ipynb)
   - [Optimum](./docs/quantization/71_Optimum.ipynb)
   - [TorchAO —— 用于 PyTorch 的架构优化库](./docs/quantization/72_TorchAO.ipynb)
+  - [BitNet —— 新型的神经网络架构](./docs/quantization/73_BitNet.ipynb)
