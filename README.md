@@ -92,3 +92,5 @@
   - [Optimum](./docs/quantization/71_Optimum.ipynb)
   - [TorchAO —— 用于 PyTorch 的架构优化库](./docs/quantization/72_TorchAO.ipynb)
   - [BitNet —— 新型的神经网络架构](./docs/quantization/73_BitNet.ipynb)
+  - [压缩张量](./docs/quantization/74_Compressed_Tensors.ipynb)
+  - 
