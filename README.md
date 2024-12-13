@@ -96,3 +96,4 @@
   - [添加新的量化方法](./docs/quantization/75_Contribute_new_quantization_method.ipynb)
 - 性能优化与可扩展性
   - [性能优化概述](./docs/optimization/76_Performance_and_Scalability.ipynb)
+  - [LLM 推理优化](./docs/optimization/77_LLM_inference_optimization.ipynb)
