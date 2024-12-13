@@ -80,7 +80,7 @@
   - [模块化 Transformers](./docs/developer_guide/60_Modular_transformers.ipynb)
   - [如何修改 Transformers 模型（通过修改现有的 Transformers 模型以满足特定需求）](./docs/developer_guide/61_Model_Hacking.ipynb)
 - 量化方法
-  - [量化技术简介](./docs/quantization/62_getting_started.ipynb)
+  - [量化技术概述](./docs/quantization/62_getting_started.ipynb)
   - [量化模型（8位与4位量化）](./docs/quantization/63_bitsandbytes.ipynb)
   - [GPTQ —— 广义剪枝训练量化](./docs/quantization/64_GPTQ.ipynb)
   - [AWQ —— 激活感知权重量化](./docs/quantization/65_AWQ.ipynb)
@@ -93,4 +93,6 @@
   - [TorchAO —— 用于 PyTorch 的架构优化库](./docs/quantization/72_TorchAO.ipynb)
   - [BitNet —— 新型的神经网络架构](./docs/quantization/73_BitNet.ipynb)
   - [压缩张量](./docs/quantization/74_Compressed_Tensors.ipynb)
-  - 
+  - [添加新的量化方法](./docs/quantization/75_Contribute_new_quantization_method.ipynb)
+- 性能优化与可扩展性
+  - [性能优化概述](./docs/optimization/76_Performance_and_Scalability.ipynb)
