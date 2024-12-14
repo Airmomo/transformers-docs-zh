@@ -97,3 +97,5 @@
 - 性能优化与可扩展性
   - [性能优化概述](./docs/optimization/76_Performance_and_Scalability.ipynb)
   - [LLM 推理优化](./docs/optimization/77_LLM_inference_optimization.ipynb)
+    - 高效训练方法
+      - [在单个 GPU 上进行高效训练的方法和工具](./docs/optimization/78_one_gpu_training.ipynb)
