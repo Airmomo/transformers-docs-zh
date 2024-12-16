@@ -100,3 +100,4 @@
     - 高效训练方法
       - [在单个 GPU 上进行高效训练的方法和工具](./docs/optimization/78_one_gpu_training.ipynb)
       - [在多个 GPU 上进行高效训练的方法和工具](./docs/optimization/79_mutil_gpu_training.ipynb)
+      - [完全分片数据并行方法](./docs/optimization/80_fsdp.ipynb)
