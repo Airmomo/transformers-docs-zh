@@ -103,3 +103,4 @@
       - [FSDP —— 完全分片数据并行方法](./docs/optimization/80_FSDP.ipynb)
       - [DeepSpeed —— 分布式高效训练 PyTorch 模型优化库](./docs/optimization/81_DeepSpeed.ipynb)
       - [在 CPU 上高效训练](./docs/optimization/82_train_on_cpu.ipynb)
+      - [在多个 CPU 上高效训练](./docs/optimization/83_train_on_cpu_mutil.ipynb)
