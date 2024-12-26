@@ -106,3 +106,8 @@
       - [在多个 CPU 上高效训练](./docs/optimization/83_perf_train_cpu_many.ipynb)
       - [使用 TensorFlow 在 TPU 上进行训练](./docs/optimization/84_perf_train_tpu_tf.ipynb)
       - [使用 PyTorch 在 Apple 芯片上训练模型](./docs/optimization/85_perf_train_special.ipynb)
+      - [使用自定义的硬件进行训练](./docs/optimization/86_perf_hardware.ipynb)
+      - [使用 Trainer API 进行超参数搜索](./docs/optimization/87_hpo_train.ipynb)
+    - 优化推理方法（优化生成方法）
+      - [通过 CPU 优化推理](./docs/optimization/88_perf_infer_cpu.ipynb)
+      - 
