@@ -110,4 +110,7 @@
       - [使用 Trainer API 进行超参数搜索](./docs/optimization/87_hpo_train.ipynb)
     - 优化推理方法（优化生成方法）
       - [通过 CPU 优化推理](./docs/optimization/88_perf_infer_cpu.ipynb)
-      - 
+      - [通过多个 CPU 优化推理](./docs/optimization/89_perf_infer_gpu_multi.ipynb)
+      - [通过 GPU 优化推理](./docs/optimization/90_perf_infer_gpu_one.ipynb)
+  - 实例化方法（加载方法）
+    - [创建大型模型实例（如何加载大型模型）](./docs/optimization/91_big_models.ipynb)
