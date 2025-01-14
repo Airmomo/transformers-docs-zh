@@ -97,6 +97,10 @@
 - 性能优化与可扩展性
   - [性能优化概述](./docs/optimization/76_performance.ipynb)
   - [LLM 推理优化](./docs/optimization/77_llm_optims.ipynb)
+  - [创建大型模型实例（如何加载大型模型）](./docs/optimization/91_big_models.ipynb)
+  - [调试（通过调试解决训练过程中可能遇到的问题）](./docs/optimization/92_debugging.ipynb)
+  - [TensorFlow 模型中的 XLA 集成](./docs/optimization/93_tf_xla.ipynb)
+  - [使用 `torch.compile()` 优化推理速度](./docs/optimization/94_perf_torch_compile.ipynb)
     - 高效训练方法
       - [在单个 GPU 上进行高效训练的方法和工具](./docs/optimization/78_perf_train_gpu_one.ipynb)
       - [在多个 GPU 上进行高效训练的方法和工具](./docs/optimization/79_perf_train_gpu_many.ipynb)
@@ -112,5 +116,13 @@
       - [通过 CPU 优化推理](./docs/optimization/88_perf_infer_cpu.ipynb)
       - [通过多个 CPU 优化推理](./docs/optimization/89_perf_infer_gpu_multi.ipynb)
       - [通过 GPU 优化推理](./docs/optimization/90_perf_infer_gpu_one.ipynb)
-  - 实例化方法（加载方法）
-    - [创建大型模型实例（如何加载大型模型）](./docs/optimization/91_big_models.ipynb)
+- 概念指南
+  - [哲学理念](./docs/conceptual/95_philosophy.ipynb)
+  - [专业术语](./docs/conceptual/96_glossary.ipynb)
+  - [Transformers 库能做什么](./docs/conceptual/97_task_summary.ipynb)
+  - [Transformers 库解决了哪些问题](./docs/conceptual/98_tasks_explained.ipynb)
+  - [Transformer 模型家族](./docs/conceptual/99_model_summary.ipynb)
+  - [Tokenizer —— 文本分词器概述](./docs/conceptual/100_tokenizer_summary.ipynb)
+  - [Attention —— 注意力机制](./docs/conceptual/101_attention.ipynb)
+  - [Padding & Truncation —— 填充与截断](./docs/conceptual/102_pad_truncation.ipynb)
+  - 
