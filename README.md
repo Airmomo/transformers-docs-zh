@@ -125,4 +125,5 @@
   - [Tokenizer —— 文本分词器概述](./docs/conceptual/100_tokenizer_summary.ipynb)
   - [Attention —— 注意力机制](./docs/conceptual/101_attention.ipynb)
   - [Padding & Truncation —— 填充与截断](./docs/conceptual/102_pad_truncation.ipynb)
-  - 
+  - [BERTology —— 基于 BERT 进行的相关研究](./docs/conceptual/103_bertology.ipynb)
+  - [Perplexity —— 困惑度](./docs/conceptual/104_perplexity.ipynb)
