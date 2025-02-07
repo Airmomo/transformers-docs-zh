@@ -127,3 +127,6 @@
   - [Padding & Truncation —— 填充与截断](./docs/conceptual/102_pad_truncation.ipynb)
   - [BERTology —— 基于 BERT 进行的相关研究](./docs/conceptual/103_bertology.ipynb)
   - [Perplexity —— 困惑度](./docs/conceptual/104_perplexity.ipynb)
+  - [使用 pipelines 作为 Web 服务器以提供推理服务](./docs/conceptual/105_pipeline_webserver.ipynb)
+  - [模型训练剖析](./docs/conceptual/106_model_memory_anatomy.ipynb)
+  - [优化 LLM 部署的有效技术](./docs/conceptual/107_llm_tutorial_optimization.ipynb)
